@@ -1,2 +1,2 @@
 # commandline_tictactoe
-command line tic tac toe 
+A command-line Tic Tac Toe game!
